@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "telegramlearningbot",
+  "version": "1.0.0",
+  "description": "bot for learning php,js,html,css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "noddito",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1",
+    "nodemon": "^3.1.0",
+    "random": "^4.1.0"
+  }
+}
