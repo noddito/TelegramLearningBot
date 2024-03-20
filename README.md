@@ -1,1 +1,1 @@
-Just add your token in hidden.js and all will be work
+Just add hidden.js with token string and all will be work
